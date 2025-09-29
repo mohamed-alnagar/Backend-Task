@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3,
+    "name": "Carol Williams",
+    "age": 21,
+    "course": "Geography",
+    "grades": {
+      "html": 95,
+      "javascript": 89
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mona",
+    "course": "English"
+  },
+  {
+    "id": 5,
+    "name": "Hassan",
+    "course": "Physics"
+  },
+  {
+    "id": 4,
+    "name": "Mona",
+    "course": "English"
+  },
+  {
+    "id": 5,
+    "name": "Hassan",
+    "course": "Physics"
+  }
+]
